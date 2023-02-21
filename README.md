@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Albert
-- 👀 I’m interested in .NET windows forms and web development
+- 👋 Hi, I’m Albert, a back-end developer at Precisão Sistemas
 - 🌱 I’m currently working and learning about .NET development using Design Patterns and good practices like Domain Driven Design, SOLID and Clean Code
 - 📫 Find me on [Linkedin](https://www.linkedin.com/in/albert-neves-souza/)
 
